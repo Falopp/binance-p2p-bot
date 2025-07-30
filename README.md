@@ -4,7 +4,7 @@
 
 AutoP2P es un software profesional de automatización de trading diseñado específicamente para dominar el mercado P2P de Binance en Argentina, Uruguay y Brasil. Con tecnología de vanguardia y estrategias probadas, mantén tu posición TOP 1 las 24 horas del día.
 
-![AutoP2P Dashboard](https://via.placeholder.com/800x400/3b82f6/ffffff?text=AutoP2P+Dashboard)
+[AutoP2P Dashboard]
 
 ## 🎯 ¿Por Qué Elegir AutoP2P?
 
