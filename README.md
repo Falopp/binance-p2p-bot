@@ -118,12 +118,6 @@ Análisis inteligente de todos los competidores con filtros avanzados por volume
 
 `binance p2p bot` `trading automatico` `bot argentina` `p2p uruguay` `trading brasil` `binance automation` `cryptocurrency bot` `p2p trading bot` `auto trading` `binance p2p argentina` `bot trading crypto` `automated p2p` `binance bot español` `trading bot latinoamerica`
 
-## ⚖️ Disclaimer Legal
-
-AutoP2P es una herramienta de automatización para trading. El trading de criptomonedas conlleva riesgos. Los resultados pasados no garantizan rendimientos futuros. Use bajo su propia responsabilidad.
-
----
-
 **🚀 ¡Comienza a Dominar el P2P de Binance Hoy Mismo!**
 
 [**💰 COMPRAR AHORA - $399 USD**](https://autop2p.dev)
