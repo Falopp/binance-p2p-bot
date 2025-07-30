@@ -92,14 +92,14 @@ Análisis inteligente de todos los competidores con filtros avanzados por volume
 > *"AutoP2P transformó mi negocio P2P. Ahora genero 3x más ganancias sin estar pegado a la pantalla."*
 > **- Carlos M., Argentina**
 
-> *"La mejor inversión que hice este año. El ROI se pagó en menos de 2 semanas."*
+> *"La mejor inversión que hice este año. El ROI se pagó en menos de 1 semana."*
 > **- Ana S., Uruguay**
 
 ## 🎥 Demos y Tutoriales
 
 ### 📹 Video Demostraciones
 
-[![AutoP2P Demo ](https://www.youtube.com/watch?v=I7UYQLILxPM)
+[![AutoP2P Demo](https://img.youtube.com/vi/I7UYQLILxPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=I7UYQLILxPM)
 *Demo completo para mercado*
 
 ### 🔗 Enlaces de Compra
@@ -112,7 +112,7 @@ Análisis inteligente de todos los competidores con filtros avanzados por volume
 
 ### 💬 Canales de Soporte
 
-- **💬 Telegram**: [@AutoP2PSupport](https://t.me/AutoP2P_Support)
+- **💬 Telegram**: [@AutoP2P_Support](https://t.me/AutoP2P_Support)
 
 ## 🏷️ Tags y Keywords
 
