@@ -99,11 +99,8 @@ Análisis inteligente de todos los competidores con filtros avanzados por volume
 
 ### 📹 Video Demostraciones
 
-[![AutoP2P Demo ](https://img.youtube.com/vi/DEMO_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=DEMO_VIDEO_ID)
+[![AutoP2P Demo ](https://www.youtube.com/watch?v=I7UYQLILxPM)
 *Demo completo para mercado*
-
-[![AutoP2P Setup Tutorial](https://img.youtube.com/vi/SETUP_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=SETUP_VIDEO_ID)
-*Tutorial de instalación paso a paso*
 
 ### 🔗 Enlaces de Compra
 
