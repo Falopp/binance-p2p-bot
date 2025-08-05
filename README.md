@@ -112,7 +112,7 @@ Análisis inteligente de todos los competidores con filtros avanzados por volume
 
 ### 💬 Canales de Soporte
 
-- **💬 Telegram**: [@AutoP2P_Support](https://t.me/AutoP2P_Support)
+- **💬 Telegram**: [@AutoP2P_Support](https://t.me/p2p_autobot_price)
 
 ## 🏷️ Tags y Keywords
 
